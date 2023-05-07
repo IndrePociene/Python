@@ -1,0 +1,10 @@
+Skirtingos programavimo kalbos: {'JavaScript', '.NET', 'PHP', 'Other', 'Golang', 'JAVA', 'Python', 'Ruby', 'C++', 'SQL', 'Objective-C', 'Node.js'}
+Skirtingi miestai: {'Kaunas', 'Klaipėda', 'Užsienis', 'Šiauliai', 'Panevėžys', 'Kita', 'Vilnius'}
+Didžiausias atlyginimas: 10000
+Mažiausias atlyginimas: 200
+Bendras atlyginimų vidurkis: 1624.67
+Atlyginimų vidurkiai pagal lygius:
+1-junior lygio darbuotojų atlyginimo vidurkis: 876.27
+2-mid lygio darbuotojų atlyginimo vidurkis: 1454.67
+3-senior lygio darbuotojų atlyginimo vidurkis: 2665.42
+Darbuotojų, nenurodžiusių lygio, atlyginimų vidurkis: 1400.0
